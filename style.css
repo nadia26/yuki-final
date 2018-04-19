@@ -1,0 +1,63 @@
+
+body{
+    /*background-image: url("cilantro-coriander-bunch.jpg");*/
+    background-repeat: no-repeat;
+    margin: 0;
+}
+
+.column {
+  float: left;
+  width: 25%;
+  padding: none;
+
+}
+
+.topcover {
+	/*background-image: url("cilantro-coriander-bunch.jpg");*/
+  background-repeat: no-repeat;
+  height: 100vh;
+  color: white;
+  font-size:50px;
+  text-align: center;
+  margin-top: -66px;
+}
+
+.topcover h1 {
+  padding-top: 50vh;
+}
+
+.content {
+	background-color: white;
+  padding: 40px;
+  font-size: 20px;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.description {
+  font-size: 35px;
+}
+
+.last {
+  padding: 40px;
+  margin-top: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.recipes {
+  font-size: 35px;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+.benefits {
+  font-size: 35px;
+}
+
+.click {
+  padding-top: 0;
+  padding-bottom: 20px;
+  margin-top: 10px;
+}
+}
